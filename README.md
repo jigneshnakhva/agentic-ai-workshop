@@ -1,0 +1,1 @@
+This project builds a weather-aware AI assistant in pure Python and AWS SDK - no frameworks, just fundamentals. Make direct API calls to Bedrock-Claude 4.5 Sonnet and handle real-time weather data using basic libraries
